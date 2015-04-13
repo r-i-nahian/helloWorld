@@ -1,0 +1,16 @@
+{
+  "name": "Hello World",
+  "version": "1.00",
+  "description": "It is a Hello World App.",
+  "launch_path": "/index.html",
+  "icons": {
+    "64": "/img/icons/icon-64.png",
+    "128": "/img/icons/icon-128.png",
+    "512": "/img/icons/icon-512.png"
+  },
+  "developer": {
+    "name": "Rashik Ishrak Nahian",
+    "url": "http://about.me/r.i.nahian"
+  },
+  "default_locale": "en"
+}
